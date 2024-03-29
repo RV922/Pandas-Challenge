@@ -2,6 +2,13 @@
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
+Analysis 
+This analysis depicts the relationship between different aspects related to High School education. These are all High School related aspects and these include: School name, Student's name, Size, Amount of students, Budget, Type, Scores per student and high school, among others. 
+
+The School Summary Analysis illustrates a higher "Percent Overall Passing Score" for schools that are catalogized as type "Charter" over those that are catalogized as type "District".
+
+In the same way, the School Summary Analyis depicts higher scores for "Percent Passing Reading" overall for most High Schools, over the scores for "Percent Passing Math".
+
 
 District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
